@@ -1,0 +1,21 @@
+﻿Ex01:
+Dammi una formula Excel che unisca il contenuto della colonna Nome e della colonna Cognome in una nuova colonna chiamata Nome completo, separando I due valori con una virgola e uno spazio
+
+Ex02:
+Dammi una formula Excel che generi un identificatore univoco unendo Nome, Cognome e Anno di nascita, separando I valori con un underscore (_) e convertendo tutto in minuscolo
+
+Ex03:
+Dammi una formula Excel che generi un identificatore univoco condizionale: se l’anno di nascita e’ prima del 1990 deve iniziare con OLD_ seguito da Nome e Cognome in maiuscolo separati da |, altrimenti deve iniziare con NEW_ seguito da Cognome e Nome in minuscolo separati da -
+
+Ex04:
+Genera 100 dipendenti fittizzi per un’azienda con I seguenti campi:
+Nome, Cognome, Data di nascita (YYYY-MM-DD), Mansione, Data di assunzione (YYYY-MM-DD) e Stipendio annuo (numero intero). I dati devono essere coerenti e realistici,
+
+Ex05:
+Forniscimi le formule Excel per calcolare l’eta’ di un dipendente a partire dalla data di nascita, l’anzianita’ a partire dalla data di assunzione e il bonus annuale di anzianita’ in base a queste fasce: 0-5 anni 0%, 5-10 anni 5%, 10-15 anni 10%, 15-20 anni 15%
+
+Ex06:
+Spiegami come estrarre dalla tabella dei dipendenti l’elenco delle mansioni e calcolare lo stipendio annuo medio per mansione, e come creare in Excel un grafico a barre dello stipendio annuo medio per mansione.
+
+Ex07:
+Genera dati realistici per CO2, deforestazione e temperatura media globale dal 1990 al 2020. fornisci le formule per normalizzare questi dati con il metodo Min-Max e spiega come creare un grafico a linee con i dati normalizzati in excel.
