@@ -1,4 +1,16 @@
-﻿Ex01:
+Module 03 — Original prompts / task instructions (AI Module @ 42 Firenze)
+
+This file contains the original prompts used to generate the spreadsheet artifacts in module03.xlsx.
+Mapping:
+- Ex01 → sheet Ex01
+- Ex02 → sheet Ex02
+- Ex03 → sheet Ex03
+- Ex04 → sheet Ex04
+- Ex05 → sheet Ex05
+- Ex06 → sheet Ex06
+- Ex07 → sheet Ex07
+
+Ex01:
 Dammi una formula Excel che unisca il contenuto della colonna Nome e della colonna Cognome in una nuova colonna chiamata Nome completo, separando I due valori con una virgola e uno spazio
 
 Ex02:
